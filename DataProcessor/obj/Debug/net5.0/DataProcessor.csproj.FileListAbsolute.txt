@@ -1,0 +1,16 @@
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\bin\Debug\net5.0\DataProcessor.exe
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\bin\Debug\net5.0\DataProcessor.deps.json
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\bin\Debug\net5.0\DataProcessor.runtimeconfig.json
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\bin\Debug\net5.0\DataProcessor.runtimeconfig.dev.json
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\bin\Debug\net5.0\DataProcessor.dll
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\bin\Debug\net5.0\ref\DataProcessor.dll
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\bin\Debug\net5.0\DataProcessor.pdb
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\DataProcessor.csproj.AssemblyReference.cache
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\DataProcessor.AssemblyInfo.cs
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\DataProcessor.dll
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\ref\DataProcessor.dll
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\DataProcessor.pdb
+C:\Users\cg_pavans\Source\Repos\DataProcessor\DataProcessor\obj\Debug\net5.0\DataProcessor.genruntimeconfig.cache
